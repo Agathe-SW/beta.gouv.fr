@@ -1,6 +1,6 @@
 ---
 fullname: Beatrice Mercier
-role: Chargée de deploiement
+role: Co-animatrice du programme beta.gouv.fr
 github: be-mercier
 missions:
   - start: 2019-02-04
