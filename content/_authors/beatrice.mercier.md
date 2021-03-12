@@ -16,6 +16,10 @@ missions:
     employer: dinum
 startups:
     - transport
+    - protege-toit
+    - gap
+    - rdv.consulat
+    - participation-citoyenne
 badges:
   - segur
 ---
