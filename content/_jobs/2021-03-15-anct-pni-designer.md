@@ -31,7 +31,7 @@ L'ambition du plan de relance est double :
 
 ## Pourquoi nous rejoindre ?
 
-En intégrant le Programme Nntional d'investigation, vous participez à la construction d'un **projet à impact positif**, mais aussi à un effort massif d'**amélioration du fonctionnement des collectivités** territoriales **facilitant le quotidien** d'un grand nombre d'agents publics et d'habitants. Vous rejoignez également les communautés de Beta.gouv et de l'Incubateur des Territoires, un riche écosystème d'acteurs et d'individus engagés pour l'amélioration de l'action publique.
+En intégrant le Programme national d'investigation, vous participez à la construction d'un **projet à impact positif**, mais aussi à un effort massif d'**amélioration du fonctionnement des collectivités** territoriales **facilitant le quotidien** d'un grand nombre d'agents publics et d'habitants. Vous rejoignez également les communautés de Beta.gouv et de l'Incubateur des Territoires, un riche écosystème d'acteurs et d'individus engagés pour l'amélioration de l'action publique.
 
 ## Missions // Rôle
 
