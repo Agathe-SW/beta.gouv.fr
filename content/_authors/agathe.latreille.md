@@ -1,7 +1,7 @@
 ---
 fullname: Agathe Latreille
 domaine: Déploiement
-role: Chargée de développement
+role: Product Manager
 missions:
   - start: 2016-11-01
     end: 2019-12-26
@@ -23,4 +23,4 @@ competences:
   - Communication
   - Administration Publique
 ---
-(trop?) enthousiaste , (trop?) curieuse, Nerd dans l’âme, portée par l’envie de relever des défis.
+Tech enthousiaste - portée par la volontée de collaborer afin d'aider les personnes en difficulté.
